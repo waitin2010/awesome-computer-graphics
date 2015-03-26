@@ -1,8 +1,4 @@
 # awesome-computer-graphics
-A curated list of awesome computer graphics. 
-
-## Awesome Graphics ##
-
 *A curated list of awesome computer graphics.*
 
 ## Water ##
