@@ -15,7 +15,7 @@ A curated list of awesome computer graphics.
 - [Water simulation in GLSL](http://www.jayconrod.com/posts/34/water-simulation-in-glsl) -
 - [ Water Category On Game Rendering Blog](http://www.gamerendering.com/category/water/) - Deep-Water Animation and Rendering, Real-time Water Volumes, Projected Grid Water, Using Vertex Texture Displacement for Realstic water Rendering
 - [Water Rendering](http://www.digitalrune.com/Support/Blog/tabid/719/EntryId/210/Water-Rendering.aspx) -  some implementation details of our water rendering solution in 2014
-- 
+
 ### Paper ###
 - [ Deep-Water Animation and Rendering ](http://www.gamasutra.com/gdce/2001/jensen/jensen_01.htm) - a new realtime level-of-detail deep water animation scheme
 
