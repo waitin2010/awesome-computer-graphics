@@ -14,6 +14,7 @@
 - [Water Rendering](http://www.digitalrune.com/Support/Blog/tabid/719/EntryId/210/Water-Rendering.aspx) -  some implementation details of our water rendering solution in 2014
 - [Realistic Natural Effect Rendering: Water I](http://archive.gamedev.net/archive/reference/articles/article2138.html) 
 - [Water interaction model for boats in video games](http://www.gamasutra.com/view/news/237528/Water_interaction_model_for_boats_in_video_games.php) - Vehicle Physics for video games
+
 ### Paper ###
 - [ Deep-Water Animation and Rendering ](http://www.gamasutra.com/gdce/2001/jensen/jensen_01.htm) - a new realtime level-of-detail deep water animation scheme
 
@@ -38,6 +39,7 @@
 - [Game Development Blogs](http://gamedev.stackexchange.com/questions/3223/game-development-blogs) - What are good game development/design blogs to follow?
 - [Graphics](https://github.com/fffaraz/awesome-cpp#graphics) - Some Render Engine
 - [**Paper Collection/Resource About Computer Graphics**](http://kesen.realtimerendering.com/) 
+
 ## Courses ##
 - [Intro to computer Graphics](http://cs.brown.edu/courses/cs123/lectures.html) -
 - [Computer Graphics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) - ray tracing, animation, and so on at MIT in fall 2012
