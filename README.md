@@ -19,7 +19,7 @@
     - [Deferred Decal](http://blog.csdn.net/pizi0475/article/details/7933739)
     - [How to project decals](http://blog.wolfire.com/2009/06/how-to-project-decals/)
 - [Atmospheric Scattering](subjects/atmospheric-scattering.md) - collection about atmospheric scattering and volumetic light scattering.
-    
+- [Shadow](subjects/shadow.md)- collection about shadow
 
 
 ## Awesome in Awesome ##
