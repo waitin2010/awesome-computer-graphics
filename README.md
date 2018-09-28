@@ -2,9 +2,25 @@
 
 *A curated list of awesome computer graphics.*
 
+## How to Learn Game/Graphics Programming
+- [How to Become a graphics programming](http://www.geisswerks.com/ryan/FAQS/learn.html)
+- [How to become a Graphics Programmer in the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
+- [so you want to be a graphics programmer](http://www.altdev.co/2011/05/10/so-you-want-to-be-a-graphics-programmer/)
+- [一个游戏是如何被设计和开发出来的](https://zhuanlan.zhihu.com/p/25292463?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+- [有哪些介绍游戏开发过程的纪录片或视频](https://www.zhihu.com/question/27754707)
+
 ## Subjects ##
 - [Water](subjects/water.md) - collection of water simulation materials
 - [Lightning](subjects/lightning.md) - collection of lightning simulation materials
+- [Post Processing](subjects/post-processing.md) - collection about post processing
+- [Global Illumination Across Industries](subjects/GI.md) - collection about Global Illumination
+- Decal
+    - [Volume Decals and Volume Roads Demos](http://www.geeks3d.com/20101005/direct3d-10-volume-decals-and-volume-roads-demos/)
+    - [Deferred Decal](http://blog.csdn.net/pizi0475/article/details/7933739)
+    - [How to project decals](http://blog.wolfire.com/2009/06/how-to-project-decals/)
+- [Atmospheric Scattering](subjects/atmospheric-scattering.md) - collection about atmospheric scattering and volumetic light scattering.
+- [Shadow](subjects/shadow.md)- collection about shadow
+
 
 ## Awesome in Awesome ##
 - [Awesome gametalks](https://github.com/hzoo/awesome-gametalks "awesome-gametalks") 
@@ -40,3 +56,10 @@
 - [HTML5 Game Development](https://html5-game-development.zeef.com/andre.antonio.schmitz#block_36755_angry-birds)
 - [Game Development](https://game-development.zeef.com/ellison.leao)
 - [Amit's Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - shortest paths, AI, Tiles, Hexagons, Game Design, Scrippting...
+
+## Blog ##
+- [Self Shadow](http://blog.selfshadow.com/) - collect a lot of usefull resource link.
+- [Matt's Webcorner](https://graphics.stanford.edu/~mdfisher/index.html)
+- [Humus-3D](http://www.humus.name/index.php?page=3D&start=16)
+- [Inigo Quilez](http://iquilezles.org/prods/index.htm) - write a lot of great demoscene.
+- [Nathan Reed's coding blog](http://www.reedbeta.com/all/)
