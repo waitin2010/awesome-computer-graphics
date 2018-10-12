@@ -46,6 +46,7 @@
 - [Pysically Based Rendering](http://www.pbrt.org/)
 - [Proland](http://proland.inrialpes.fr/index.html) - Open Source Project
 - [Virtual Terrain Project](http://vterrain.org/) - the creation of tools for easily constructing any part of the real part of the real world in interactive, 3D digital form.
+- [Ray Tracing In One Weekend](https://github.com/petershirley/raytracinginoneweekend) - free minibook about writing a ray tacer from scratch.
 
 ## Game ##
 - [Game Studies](http://gamestudies.org/1402) - explore the rich cultural genre of game and give scholars a peer reviewed forum for their ideas and theories and provide an academic channel for the ongoing discussions on games and gaming
