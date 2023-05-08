@@ -3,7 +3,7 @@
 *A curated list of awesome computer graphics.*
 
 ## How to Learn Game/Graphics Programming
-- [How to Become a graphics programming](http://www.geisswerks.com/ryan/FAQS/learn.html)
+- [How to Become a Graphics Programmer](http://www.geisswerks.com/ryan/FAQS/learn.html)
 - [How to become a Graphics Programmer in the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
 - [so you want to be a graphics programmer](http://www.altdev.co/2011/05/10/so-you-want-to-be-a-graphics-programmer/)
 - [一个游戏是如何被设计和开发出来的](https://zhuanlan.zhihu.com/p/25292463?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
