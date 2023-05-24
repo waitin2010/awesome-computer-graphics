@@ -31,7 +31,7 @@
 - [**Paper Collection/Resource About Computer Graphics**](http://kesen.realtimerendering.com/) 
 
 ## Courses ##
-- [Intro to computer Graphics](http://cs.brown.edu/courses/cs123/lectures.html) -
+- [Intro to computer Graphics](https://cs1230.graphics/lectures) -
 - [Computer Graphics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) - ray tracing, animation, and so on at MIT in fall 2012
 - [Computer Graphics, Fall 2000](http://www.cs.princeton.edu/courses/archive/fall00/cs426/) - Princeton University 
 
