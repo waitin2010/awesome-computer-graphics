@@ -5,7 +5,7 @@
 ## How to Learn Game/Graphics Programming
 - [How to Become a Graphics Programmer](http://www.geisswerks.com/ryan/FAQS/learn.html)
 - [How to become a Graphics Programmer in the games industry](https://www.gamasutra.com/blogs/OliverFranzke/20140718/221347/How_to_become_a_Graphics_Programmer_in_the_games_industry.php)
-- [so you want to be a graphics programmer](http://www.altdev.co/2011/05/10/so-you-want-to-be-a-graphics-programmer/)
+- [so you want to be a graphics programmer](https://www.gamedeveloper.com/programming/opinion-so-you-want-to-be-a-graphics-programmer)
 - [一个游戏是如何被设计和开发出来的](https://zhuanlan.zhihu.com/p/25292463?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [有哪些介绍游戏开发过程的纪录片或视频](https://www.zhihu.com/question/27754707)
 
