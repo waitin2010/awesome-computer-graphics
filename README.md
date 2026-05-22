@@ -34,6 +34,7 @@
 - [Intro to computer Graphics](http://cs.brown.edu/courses/cs123/lectures.html) -
 - [Computer Graphics](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/) - ray tracing, animation, and so on at MIT in fall 2012
 - [Computer Graphics, Fall 2000](http://www.cs.princeton.edu/courses/archive/fall00/cs426/) - Princeton University 
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Render Engine ##
 - [List of game engines](http://en.wikipedia.org/wiki/List_of_game_engines) - Game Engine or Render Engine List
