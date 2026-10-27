@@ -26,6 +26,7 @@
 - [Awesome gametalks](https://github.com/hzoo/awesome-gametalks "awesome-gametalks") 
 - [Game Rendering](http://www.gamerendering.com) - Image Enhancements, Level Geometry, Shadows ...
 - [Game Development Resource](https://github.com/ellisonleao/magictools) - A list of Game Development Resource to make magic happen
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers
 - [Game Development Blogs](http://gamedev.stackexchange.com/questions/3223/game-development-blogs) - What are good game development/design blogs to follow?
 - [Graphics](https://github.com/fffaraz/awesome-cpp#graphics) - Some Render Engine
 - [**Paper Collection/Resource About Computer Graphics**](http://kesen.realtimerendering.com/) 
